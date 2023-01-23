@@ -1,6 +1,6 @@
 # neural-nets
 
-Code for exploring RNNs solving working memory tasks with and without short-term plasticity.
+Exploring RNNs solving working memory tasks with and without short-term plasticity.
 
 Code adapted from https://github.com/kozleo/robust_wm_stsp
 
