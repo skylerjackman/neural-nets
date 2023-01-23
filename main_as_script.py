@@ -1,5 +1,5 @@
-from network_strip_logging import DMTSNet #stsp and fixed (same but no x+u) networks
-from task_strip import DMTSDataModule #spatial version, distraction code removed
+from network import DMTSNet #stsp and fixed (same but no x+u) networks
+from task import DMTSDataModule #spatial version, distraction code removed
 
 import pytorch_lightning as pl
 import torch
